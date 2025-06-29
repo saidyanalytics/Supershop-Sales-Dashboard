@@ -1,6 +1,8 @@
 # 🛍️ Super Shop Analysis Dashboard
 
-A powerful and interactive **Sales Analysis Dashboard** built using **Power BI**, designed to help stakeholders track **sales, profit, returns, category performance, and regional insights** with ease.
+A powerful and interactive **Sales Analysis Dashboard** 
+built using **Power BI**, designed to help stakeholders trac
+**sales, profit, returns, category performance, and regional insights** with ease.
 
 ---
 
@@ -73,8 +75,5 @@ The dataset used is based on a simulated retail shop’s performance data contai
 If you like this project or want something similar built for your business, feel free to reach out:
 
 - 📧 Email: [your-email@example.com]
-- 🌐 Portfolio: [your-portfolio-link.com]
-- 🔗 LinkedIn: [your-linkedin-profile]
 
----
 
