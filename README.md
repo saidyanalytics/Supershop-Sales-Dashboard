@@ -31,7 +31,7 @@ This project demonstrates a complete **end-to-end data analysis workflow**:
 ## 📷 Dashboard Preview
 
 ![Dashboard Screenshot](./assets/super-shop-dashboard.png)  
-*Tip: Replace this with your screenshot file inside the `assets/` folder*
+
 
 ---
 
