@@ -73,6 +73,6 @@ The dataset used is based on a simulated retail shop’s performance data contai
 
 If you like this project or want something similar built for your business, feel free to reach out:
 
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [saidy15-4501@diu.edu.bd]
 
 
