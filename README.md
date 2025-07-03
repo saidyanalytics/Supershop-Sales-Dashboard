@@ -1,4 +1,4 @@
-# 🛍️ Super Shop Analysis Dashboard
+ # 🛍️ Super Shop Analysis Dashboard
 
 A powerful and interactive **Sales Analysis Dashboard** 
 built using **Power BI**, designed to help stakeholders trac
@@ -38,7 +38,6 @@ This project demonstrates a complete **end-to-end data analysis workflow**:
 ## 🎥 Live Demo (Optional)
 
 📺 **Video Walkthrough:** [Click to Watch](https://your-video-link.com)  
-*Replace the link above with your hosted demo (Google Drive, YouTube, Loom, etc.)*
 
 ---
 
