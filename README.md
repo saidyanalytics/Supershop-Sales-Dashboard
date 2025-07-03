@@ -2,7 +2,7 @@
 
 A powerful and interactive **Sales Analysis Dashboard** 
 built using **Power BI**, designed to help stakeholders trac
-**sales, profit, returns, category performance, and regional insights** with ease
+**sales, profit, returns, category performance, and regional insights** with ease.
 
 ---
 
