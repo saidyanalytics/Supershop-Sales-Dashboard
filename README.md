@@ -12,7 +12,7 @@ This project demonstrates a complete **end-to-end data analysis workflow**:
 
 - 🔍 **Data Cleaning & Preprocessing** – Performed in Excel to ensure consistency, remove duplicates, fix missing data, and standardize formats.
 - 🧮 **Data Modeling** – Created relationships between tables and optimized the model using proper data types and hierarchies in Power BI.
-- 🧾 **SQL Queries** – Applied SQL (optional stage) for querying filtered metrics (if required for modeling insights).
+- 🧾 **SQL Queries** – Applied SQL (optional stage) for querying filtered metrics .
 - 📊 **Dashboard Design in Power BI** – Presented KPIs, visual trends, regional breakdowns, and profitability at a glance.
 
 ---
@@ -71,7 +71,7 @@ The dataset used is based on a simulated retail shop’s performance data contai
 
 ## 📩 Contact
 
-If you like this project or want something similar built for your business, feel free to reach out:
+If you like this project or want something similar built for your business, feel free to reach out
 
 - 📧 Email: [saidy15-4501@diu.edu.bd]
 
