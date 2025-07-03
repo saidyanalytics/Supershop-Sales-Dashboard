@@ -57,7 +57,7 @@ The dataset used is based on a simulated retail shop’s performance data contai
 
 - **Power BI** – For data modeling and dashboard visualization  
 - **Microsoft Excel** – For data cleaning and preprocessing  
-- **SQL (optional)** – For analysis queries (if used)  
+- **SQL (optional)** – For analysis queries
 
 ---
 
